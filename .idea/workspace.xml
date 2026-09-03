@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eea83937-b0a4-4806-b4ca-18fc5b0d2346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/scope/RequestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/sender/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/sender/NotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/sender/SMSSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/service/GreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/service/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/com/webdecoders/employee_management/EmployeeManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/test/java/com/webdecoders/employee_management/EmployeeManagementApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4405060230730675" />
+      <entry key="MS500" value="3.310159472913337" />
+      <entry key="S2" value="5.2019048864837965" />
+      <entry key="S5" value="7.13865939245869" />
+      <entry key="S10" value="9.108134082458195" />
+      <entry key="S30" value="12.5211100856983" />
+      <entry key="S60" value="15.16645099479435" />
+      <entry key="M2" value="17.4777168403636" />
+      <entry key="M5" value="19.406234746376633" />
+      <entry key="M10" value="20.16825978473654" />
+      <entry key="M15" value="20.439090160248515" />
+      <entry key="M30" value="21.057820568089376" />
+      <entry key="H1" value="27.472345511851767" />
+      <entry key="H2" value="55.26355652934394" />
+      <entry key="H4" value="103.01988707552837" />
+      <entry key="D1" value="194.4981847987796" />
+      <entry key="W1" value="218.649388729006" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.9930283669338485E-35" />
+      <entry key="MS500" value="1.328068593377596E-7" />
+      <entry key="S2" value="0.02453787651864097" />
+      <entry key="S5" value="0.3298792655894652" />
+      <entry key="S10" value="0.8180943789859437" />
+      <entry key="S30" value="1.704859939161383" />
+      <entry key="S60" value="2.2003871953553054" />
+      <entry key="M2" value="2.6308283233998093" />
+      <entry key="M5" value="3.3691160697883844" />
+      <entry key="M10" value="3.9627342679265243" />
+      <entry key="M15" value="4.246128078918572" />
+      <entry key="M30" value="4.807783987255854" />
+      <entry key="H1" value="8.12253564596094" />
+      <entry key="H2" value="18.673805338853185" />
+      <entry key="H4" value="33.64777010404548" />
+      <entry key="D1" value="58.70600023485939" />
+      <entry key="W1" value="64.89809726211608" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3683501059049756" />
+      <entry key="MS500" value="3.253648186317105" />
+      <entry key="S2" value="5.19397194760422" />
+      <entry key="S5" value="7.40175795150802" />
+      <entry key="S10" value="9.850703200045675" />
+      <entry key="S30" value="14.157234203538465" />
+      <entry key="S60" value="17.30887585427429" />
+      <entry key="M2" value="20.067525642494957" />
+      <entry key="M5" value="22.752706766859152" />
+      <entry key="M10" value="24.11763789195193" />
+      <entry key="M15" value="24.6757063636084" />
+      <entry key="M30" value="25.860294408300454" />
+      <entry key="H1" value="35.59069445096964" />
+      <entry key="H2" value="73.93280796126437" />
+      <entry key="H4" value="136.66361747009037" />
+      <entry key="D1" value="253.20301640463757" />
+      <entry key="W1" value="283.5473014896364" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IoTJAbvhBXkG0Rw75tvAubAfvx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.employee-management [clean].executor": "Run",
+    "Maven.employee-management [package].executor": "Run",
+    "Maven.employee-management [verify].executor": "Run",
+    "Maven.employee-management-springboot-ai [clean].executor": "Run",
+    "Maven.employee-management-springboot-ai [package].executor": "Run",
+    "Maven.spring-core-demo [clean].executor": "Run",
+    "Maven.spring-core-demo [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/abhishekverma/Documents/SpringBoot/Employee_Management_SpringBoot_AI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/abhishekverma/Documents/SpringBoot/Employee_Management_SpringBoot_AI/src/main/java/org/webdecoders/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spring-Framework-Demo_W1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-core-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-core-demo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployeeManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employee-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.webdecoders.employee_management.EmployeeManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea83937-b0a4-4806-b4ca-18fc5b0d2346" name="Changes" comment="" />
+      <created>1788429848337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788429848337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
