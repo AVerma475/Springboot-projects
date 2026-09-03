@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eea83937-b0a4-4806-b4ca-18fc5b0d2346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/scope/RequestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/sender/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/sender/NotificationSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/sender/SMSSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/service/GreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Framework-Demo_L1-2/src/main/java/org/webdecoders/service/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/com/webdecoders/employee_management/EmployeeManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-management/src/test/java/com/webdecoders/employee_management/EmployeeManagementApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,67 +24,79 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AVerma475"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AVerma475/Springboot-projects.git",
+    "accountId": "9e1c799b-4707-4c99-9f84-19e10dc05257"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4405060230730675" />
-      <entry key="MS500" value="3.310159472913337" />
-      <entry key="S2" value="5.2019048864837965" />
-      <entry key="S5" value="7.13865939245869" />
-      <entry key="S10" value="9.108134082458195" />
-      <entry key="S30" value="12.5211100856983" />
-      <entry key="S60" value="15.16645099479435" />
-      <entry key="M2" value="17.4777168403636" />
-      <entry key="M5" value="19.406234746376633" />
-      <entry key="M10" value="20.16825978473654" />
-      <entry key="M15" value="20.439090160248515" />
-      <entry key="M30" value="21.057820568089376" />
-      <entry key="H1" value="27.472345511851767" />
-      <entry key="H2" value="55.26355652934394" />
-      <entry key="H4" value="103.01988707552837" />
-      <entry key="D1" value="194.4981847987796" />
-      <entry key="W1" value="218.649388729006" />
+      <entry key="MS100" value="1.3802362884673858" />
+      <entry key="MS500" value="3.014678717272817" />
+      <entry key="S2" value="4.6922355110136165" />
+      <entry key="S5" value="7.815850281673255" />
+      <entry key="S10" value="11.004829372660206" />
+      <entry key="S30" value="19.990563207022085" />
+      <entry key="S60" value="35.76973549361723" />
+      <entry key="M2" value="58.31400316293278" />
+      <entry key="M5" value="89.32719989661456" />
+      <entry key="M10" value="106.87588609742707" />
+      <entry key="M15" value="114.05431207599743" />
+      <entry key="M30" value="122.35199272670496" />
+      <entry key="H1" value="132.55950440505578" />
+      <entry key="H2" value="161.7945719698472" />
+      <entry key="H4" value="210.42402129226508" />
+      <entry key="D1" value="303.7897868174228" />
+      <entry key="W1" value="328.5377633976874" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.9930283669338485E-35" />
-      <entry key="MS500" value="1.328068593377596E-7" />
-      <entry key="S2" value="0.02453787651864097" />
-      <entry key="S5" value="0.3298792655894652" />
-      <entry key="S10" value="0.8180943789859437" />
-      <entry key="S30" value="1.704859939161383" />
-      <entry key="S60" value="2.2003871953553054" />
-      <entry key="M2" value="2.6308283233998093" />
-      <entry key="M5" value="3.3691160697883844" />
-      <entry key="M10" value="3.9627342679265243" />
-      <entry key="M15" value="4.246128078918572" />
-      <entry key="M30" value="4.807783987255854" />
-      <entry key="H1" value="8.12253564596094" />
-      <entry key="H2" value="18.673805338853185" />
-      <entry key="H4" value="33.64777010404548" />
-      <entry key="D1" value="58.70600023485939" />
-      <entry key="W1" value="64.89809726211608" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.592935178739375E-232" />
+      <entry key="S2" value="2.2007323827722877E-58" />
+      <entry key="S5" value="1.2573237580511013E-23" />
+      <entry key="S10" value="5.050675426251493E-12" />
+      <entry key="S30" value="3.1275485225656935E-4" />
+      <entry key="S60" value="0.02980278050406646" />
+      <entry key="M2" value="0.30617614203427285" />
+      <entry key="M5" value="1.4251727446806906" />
+      <entry key="M10" value="2.5773340892978074" />
+      <entry key="M15" value="3.1874516198830958" />
+      <entry key="M30" value="4.1655293853980035" />
+      <entry key="H1" value="7.56056504130813" />
+      <entry key="H2" value="18.016239280682907" />
+      <entry key="H4" value="33.05003662147464" />
+      <entry key="D1" value="58.53088643923318" />
+      <entry key="W1" value="64.87040696218826" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3683501059049756" />
-      <entry key="MS500" value="3.253648186317105" />
-      <entry key="S2" value="5.19397194760422" />
-      <entry key="S5" value="7.40175795150802" />
-      <entry key="S10" value="9.850703200045675" />
-      <entry key="S30" value="14.157234203538465" />
-      <entry key="S60" value="17.30887585427429" />
-      <entry key="M2" value="20.067525642494957" />
-      <entry key="M5" value="22.752706766859152" />
-      <entry key="M10" value="24.11763789195193" />
-      <entry key="M15" value="24.6757063636084" />
-      <entry key="M30" value="25.860294408300454" />
-      <entry key="H1" value="35.59069445096964" />
-      <entry key="H2" value="73.93280796126437" />
-      <entry key="H4" value="136.66361747009037" />
-      <entry key="D1" value="253.20301640463757" />
-      <entry key="W1" value="283.5473014896364" />
+      <entry key="MS100" value="1.3177655979881262" />
+      <entry key="MS500" value="2.9767480128468056" />
+      <entry key="S2" value="4.6765492319879165" />
+      <entry key="S5" value="7.804913849997119" />
+      <entry key="S10" value="10.996927246963704" />
+      <entry key="S30" value="19.98617992361968" />
+      <entry key="S60" value="35.794765724028665" />
+      <entry key="M2" value="58.61223393325573" />
+      <entry key="M5" value="90.74087307366302" />
+      <entry key="M10" value="109.44338969229263" />
+      <entry key="M15" value="117.23381120432063" />
+      <entry key="M30" value="126.51248763866278" />
+      <entry key="H1" value="140.11594808677776" />
+      <entry key="H2" value="179.8063035981911" />
+      <entry key="H4" value="243.470032419406" />
+      <entry key="D1" value="362.31949845242656" />
+      <entry key="W1" value="393.4079845552311" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -135,6 +123,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -153,7 +142,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -203,6 +192,29 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
